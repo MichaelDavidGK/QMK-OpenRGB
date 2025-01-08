@@ -28,5 +28,6 @@
     "[json]": {
 	    "editor.formatOnSave": false
     },
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "C_Cpp.dimInactiveRegions": false
 }
